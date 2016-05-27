@@ -16,10 +16,15 @@ public class Project_Euler {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // Problem 3
+        System.out.println("Problem 3");     
+        System.out.println(project_euler.Problem_1_to_25.
+                 Project_Euler_Problem_3.returnMaxPrimeDividor(600851475143L));
 
+                
         // Problem 2
-         System.out.println(project_euler.Problem_1_to_25.
-                                Project_Euler_Problem_2.findSum());
+        // System.out.println(project_euler.Problem_1_to_25.
+        //                        Project_Euler_Problem_2.findSum());
 
         // Problem 1
         // System.out.println(project_euler.Problem_1_to_25.
