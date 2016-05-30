@@ -68,7 +68,7 @@ import java.util.*;
  *              Find the sum of digits in the numerator of the 100th convergent
  *              of the continued fraction for e.
  */
-public class Project_Euler_Problem_65 {
+public class Project_Euler_Problem_065 {
 
     public static int findSumDigits() {
 

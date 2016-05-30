@@ -24,7 +24,7 @@ package project_euler.Problem_076_to_100;
  *              analyse the file so as to determine the shortest possible secret
  *              passcode of unknown length.
  */
-public class Project_Euler_Problem_79 {
+public class Project_Euler_Problem_079 {
 
     public static long returnAnswer() {
 
