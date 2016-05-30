@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package project_euler.Problem_1_to_25;
+package project_euler.Problem_001_to_025;
 
 import java.util.*;
 
@@ -16,7 +16,7 @@ import java.util.*;
  * Description: The prime factors of 13195 are 5, 7, 13 and 29.
  *              What is the largest prime factor of the number 600851475143 ?
  */
-public class Project_Euler_Problem_3 {
+public class Project_Euler_Problem_003 {
 
     public static long returnMaxPrimeDividor(long lNumber) {
 

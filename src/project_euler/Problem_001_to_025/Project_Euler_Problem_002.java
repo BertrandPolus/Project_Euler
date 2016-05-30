@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package project_euler.Problem_1_to_25;
+package project_euler.Problem_001_to_025;
 
 /**
  *
@@ -19,7 +19,7 @@ package project_euler.Problem_1_to_25;
  *              do not exceed four million, find the sum of the even-valued
  *              terms.
  */
-public class Project_Euler_Problem_2 {
+public class Project_Euler_Problem_002 {
 
     public static long findSum() {
 

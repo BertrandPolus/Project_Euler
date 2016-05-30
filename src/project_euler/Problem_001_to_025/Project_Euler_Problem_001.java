@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package project_euler.Problem_1_to_25;
+package project_euler.Problem_001_to_025;
 
 /**
  *
  * @author bpolus
  */
-public class Project_Euler_Problem_1 {
+public class Project_Euler_Problem_001 {
     
     public static long findSum() {
         long lSum = 0;
