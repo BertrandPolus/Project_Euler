@@ -17,7 +17,7 @@ public class Project_Euler {
      */
     public static void main(String[] args) {
 
-        ExecuteProblem(203);                
+        ExecuteProblem(23);                
 
     }
     
@@ -63,6 +63,13 @@ public class Project_Euler {
                 System.out.println("Problem 6");     
                 System.out.println(project_euler.Problem_001_to_025.
                                    Project_Euler_Problem_006.findAnswer());
+                break;
+            
+            case 23:
+                // Problem 6
+                System.out.println("Problem 23");     
+                System.out.println(project_euler.Problem_001_to_025.
+                                   Project_Euler_Problem_023.findAnswer());
                 break;
             
             case 65:
